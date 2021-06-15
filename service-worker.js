@@ -3,14 +3,14 @@ const static_assets = [
     "/",
     "/index.html",
     "/script.js",
-    "/image/icon-24.jpg",
-    "/image/icon-32.jpg",
-    "/image/icon-48.jpg",
-    "/image/icon-64.jpg",
-    "/image/icon-72.jpg",
-    "/image/icon-96.jpg",
-    "/image/icon-128.jpg",
-    "/image/icon-256.jpg",
+    "/images/icon-24.jpg",
+    "/images/icon-32.jpg",
+    "/images/icon-48.jpg",
+    "/images/icon-64.jpg",
+    "/images/icon-72.jpg",
+    "/images/icon-96.jpg",
+    "/images/icon-128.jpg",
+    "/images/icon-256.jpg",
 ]
 
 // storing static assets in cache on service worker install
